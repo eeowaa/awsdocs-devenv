@@ -1,0 +1,80 @@
+[submodule "android"]
+	path = android
+	url = git@github.com:awsdocs/aws-android-developer-guide.git
+	branch = master
+	shallow = true
+[submodule "cpp"]
+	path = cpp
+	url = git@github.com:awsdocs/aws-cpp-developer-guide.git
+	branch = master
+	shallow = true
+[submodule "dotnet"]
+	path = dotnet
+	url = git@github.com:awsdocs/aws-net-developer-guide.git
+	branch = master
+	shallow = true
+[submodule "dotnet-guide"]
+	path = dotnet-guide
+	url = git@github.com:awsdocs/aws-guide-for-net-developers.git
+	branch = master
+	shallow = true
+[submodule "eclipse"]
+	path = eclipse
+	url = git@github.com:awsdocs/aws-toolkit-eclipse-user-guide.git
+	branch = master
+	shallow = true
+[submodule "go"]
+	path = go
+	url = git@github.com:awsdocs/aws-go-developer-guide.git
+	branch = master
+	shallow = true
+[submodule "ios"]
+	path = ios
+	url = git@github.com:awsdocs/aws-ios-developer-guide.git
+	branch = master
+	shallow = true
+[submodule "java"]
+	path = java
+	url = git@github.com:awsdocs/aws-java-developer-guide.git
+	branch = master
+	shallow = true
+[submodule "javascript-v2"]
+	path = javascript-v2
+	url = git@github.com:awsdocs/aws-javascript-developer-guide-v2.git
+	branch = master
+	shallow = true
+[submodule "java-v2"]
+	path = java-v2
+	url = git@github.com:awsdocs/aws-java-developer-guide-v2.git
+	branch = master
+	shallow = true
+[submodule "php"]
+	path = php
+	url = git@github.com:awsdocs/aws-php-developers-guide.git
+	branch = master
+	shallow = true
+[submodule "powershell"]
+	path = powershell
+	url = git@github.com:awsdocs/aws-powershell-user-guide.git
+	branch = master
+	shallow = true
+[submodule "ruby"]
+	path = ruby
+	url = git@github.com:awsdocs/aws-ruby-developer-guide.git
+	branch = master
+	shallow = true
+[submodule "unity"]
+	path = unity
+	url = git@github.com:awsdocs/aws-unity-developer-guide.git
+	branch = master
+	shallow = true
+[submodule "visual-studio"]
+	path = visual-studio
+	url = git@github.com:awsdocs/aws-toolkit-visual-studio-user-guide.git
+	branch = master
+	shallow = true
+[submodule "xamarin"]
+	path = xamarin
+	url = git@github.com:awsdocs/aws-xamarin-developer-guide.git
+	branch = master
+	shallow = true
